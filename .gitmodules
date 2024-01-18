@@ -1,3 +1,7 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/ConnectSDK/Connect-SDK-iOS-Core.git
+[submodule "origin"]
+	url = https://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@github.com/thuyetngocluong/Connect-SDK-iOS-Core
+[submodule "/core"]
+	url = https://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@github.com/thuyetngocluong/Connect-SDK-iOS-Core
